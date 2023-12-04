@@ -16,7 +16,7 @@
 			<br />
 		</div>
 		<form action="geraRelatorio" method="post" target="_blank">
-			<table>
+			<table style = "background-image: estoque.jpeg">
 				<tr>
 					<td colspan="4" align="center">Digite o intervalo de datas
 						para o relatório de Análise de Vigência de Produtos</td>

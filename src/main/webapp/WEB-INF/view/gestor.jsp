@@ -14,7 +14,7 @@
 		<jsp:include page="menuGestor.jsp" />
 		<br />
 	</div>
-	<div>
+	<div class="bg-fundo">
 		<form action="gestor" method="post">
 			<table>
 				<tr>
@@ -23,7 +23,7 @@
 						placeholder="Digite o CPF do funcionário"
 						value='${funcionario.cpf }'></td>
 					<td><input type="submit" value="Consultar" id="button"
-						name="button"></td>
+						name="button" class="bt-consultar"></td>
 				</tr>
 				<tr>
 					<td colspan="4"><label for="nome">Nome</label> <input
@@ -51,13 +51,13 @@
 				</tr>
 				<tr>
 					<td><input type="submit" value="Cadastrar" id="button"
-						name="button"></td>
+						name="button" class="bt-cadastrar"></td>
 					<td><input type="submit" value="Atualizar" id="button"
-						name="button"></td>
+						name="button" class="bt-atualizar"></td>
 					<td><input type="submit" value="Excluir" id="button"
-						name="button"></td>
+						name="button" class="bt-excluir"></td>
 					<td><input type="submit" value="Listar" id="button"
-						name="button"></td>
+						name="button" class="bt-listar"></td>
 				</tr>
 			</table>
 		</form>

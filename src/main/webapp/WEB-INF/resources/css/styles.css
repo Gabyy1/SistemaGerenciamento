@@ -280,14 +280,13 @@ form input[type="number"], form input[type="text"], form input[type="date"]
 }
 
 form input[type="submit"] {
-	width: 100px;
+	width: 110px;
 	padding: 10px;
 	margin: 5px;
 	border: none;
 	border-radius: 5px;
 	color: #fff;
 	cursor: pointer;
-	width: auto;
 }
 
 /* Estilos para as mensagens de saída e erro */

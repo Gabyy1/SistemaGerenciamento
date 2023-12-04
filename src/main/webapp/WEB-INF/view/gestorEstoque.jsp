@@ -20,11 +20,11 @@
 				<tr>
 					<td>
 						<p>Verificar por Nível de Estoque</p> <input type="submit"
-						value="Por Nivel" id="button" name="button">
+						value="Por Nivel" id="button" name="button" class="bt-nivel">
 					</td>
 					<td>
 						<p>Verificar por Data de Vencimento</p> <input type="submit"
-						value="Por Vencimento" id="button" name="button">
+						value="Por Vencimento" id="button" name="button" class="bt-venc">
 					</td>
 				</tr>
 			</table>
