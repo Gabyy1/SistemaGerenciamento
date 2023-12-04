@@ -237,7 +237,7 @@ body, div, form, table {
 
 body {
 	font-family: Arial, sans-serif;
-	
+	background-image: url("estoque.jpeg");
 	margin: 0;
 	padding: 0;
 }
@@ -394,20 +394,19 @@ table th {
 }
 /*tela fornecedor*/
 .bg-fundo{
-	background-image: var(--imagem-principal);
   	background-size: cover;
 }
 
 .intro{
 	width: auto;
 	height: 670px;
-	background-image: var(--imagem-principal);
 	  background-size: cover;
+	  background-image: url("estoque.jpeg");
 	  opacity: 0.8;
 	
 }
 
 .paragrafo{
 	
-	color: white;
+	color: black;
 }

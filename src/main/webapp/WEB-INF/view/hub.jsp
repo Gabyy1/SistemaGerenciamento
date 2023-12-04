@@ -14,9 +14,8 @@
 		<jsp:include page="menuGestor.jsp" />
 	</div>
 	<div id="centro" align="center" class="est">
-		<h1 style="color: #333; text-align: center; background-color: #077fff;">Bem-vindo ao
+		<h1 style="color: #333; text-align: center; background-color: white;">Bem-vindo ao
 			Inventory Tracker!</h1>
-		<div align="center" class="intro">
 			<p class="paragrafo">Estamos felizes em tê-lo(a) conosco! Este é o seu hub central
 				para monitorar e controlar eficientemente o estoque da sua empresa.
 				Através desta plataforma, você terá acesso rápido a informações
@@ -36,6 +35,6 @@
 			<p class="paragrafo">Obrigada por escolher o Inventory Tracker. Vamos juntos fazer
 				do controle de estoque uma tarefa eficiente e descomplicada! :)</p>
 		</div>
-	</div>
+
 </body>
 </html>
